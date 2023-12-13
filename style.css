@@ -1,0 +1,15 @@
+#a {
+    border: 1px solid blue;
+}
+
+#b {
+    border: 1px solid blue;
+}
+
+.mensagem-positiva {
+    color: green;
+  }
+
+  .mensagem-negativa {
+    color: red;
+  }
